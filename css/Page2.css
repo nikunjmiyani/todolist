@@ -1,0 +1,168 @@
+body {
+	margin: 0;
+	font-family: "Artifika";
+}
+.clear {
+	clear: both;
+}
+.first {
+	background-image: url("../image/img4.jpg");
+	background-repeat: repeat;
+	padding: 60px 130px 50px 130px;
+	border-bottom: 5px solid #424949 ;
+}
+.top {
+	float: left;
+	width: 50%;
+}
+.f1 {
+	font-size: 60px;
+	margin: 0;
+	color: #F0B27A;
+}
+.f2 {
+	font-size: 20px;
+	color: #E5E7E9;
+}
+.f3 {
+	font-size: 12px;
+	color: #E5E7E9;
+}
+.f4 {
+	float: left;
+	width: 50%;
+	text-align: center;
+	margin-top: 20px;
+}
+.orange_button {
+	padding: 15px 40px 15px 40px;
+	border-radius: 5px;
+	border: 1px solid #fff;
+	background-image: linear-gradient(#E67E22 , #F0B27A);
+	color: #ffff;
+	font-weight: bold;
+}
+.black_button {
+	padding: 15px 40px 15px 40px;
+	border-radius: 5px;
+	border: none;
+	background-image: linear-gradient(#4C4C4B , #7F7F7D);
+	color: #ffff;
+	font-weight: bold;
+}
+.f5 {
+	float: right;
+}
+.icons {
+	float: left;
+	font-size: 20px;
+}
+.icons i {
+	font-size: 30px;
+	margin-top: -8px;
+    margin-left: 10px;
+}
+.f6 {
+	float: right;
+	margin-top: 25px;
+}
+.f6 img {
+	border-radius: 8px;
+}
+
+.second {
+	background-image: url("../image/img6.jpg");
+	background-repeat: repeat;
+	padding: 80px 130px 100px 130px;
+	border-bottom: 5px solid #424949 ;
+}
+.s2 {
+	float: left;
+	width: 33.33%;
+}
+.s2 p {
+	color: #E5E7E9;
+	font-size: 12px;
+	padding-right: 35px;
+	text-align: justify;
+}
+.s3 {
+	float: left;
+}
+.s3 p {
+	color: #F0B27A;
+	margin-left: 15px;
+	font-size: 20px;
+}
+.below {
+	position: relative;
+	top: 50px;
+}
+
+.third {
+	background-image: url("../image/img4.jpg");
+	background-repeat: repeat;
+	padding: 80px 130px 60px 130px;
+	border-bottom: 5px solid #424949 ;
+}
+.t1 {
+	float: left;
+	width: 60%;
+}
+.t2 {
+	float: left;
+	width: 35%;
+	padding-top: 10px;
+    padding-left: 50px;
+	text-align: justify;
+}
+.t3 {
+	text-align: center;
+}
+.t3 img {
+	width: 90%;
+	margin: auto;
+}
+.t4 {
+	padding: 10px 30px;
+	text-align: center;
+}
+.t4 img {
+	margin: 0px 5px;
+	width: 30%;
+}
+.t2 h2 {
+	color: #F0B27A;
+	margin: 0;
+}
+.t2 h3 {
+	color: #F0B27A;
+}
+.t2 h5 {
+	color: #E5E7E9;
+}
+.t2 p {
+	color: #E5E7E9;
+	font-size: 12px;
+	margin-bottom: 25px;
+	margin-top: 20px;
+}
+.last {
+	width: 50%;
+	float: left;
+	height: 80px;
+	padding: 20px 0px;
+	background-color: #0F0100;
+}
+.l1 {
+	text-align: center;
+}
+.last img {
+	width: 40%;
+	height: 80px;
+}
+.last h5 {
+	margin-left: 150px;
+	color: #E5E7E9;
+	margin-top: 30px;
+}
